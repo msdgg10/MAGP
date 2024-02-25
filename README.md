@@ -1,0 +1,2 @@
+# MAGP
+Bridge protocol
